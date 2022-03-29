@@ -1,0 +1,4 @@
+Car name: Malibu Car type: premier Car cost: 32000.0
+Car name: Cobalt Car type: sedan Car cost: 11000.0
+Car name: Captiva Car type: 25000 Car cost: 25000.0
+Car name: Nexia Car type: sedan Car cost: 6000.0
